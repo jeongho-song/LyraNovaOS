@@ -138,7 +138,7 @@ If a concise statement is needed, the governance direction of LyraNovaOS can be 
 
 > LyraNovaOS is being developed as a long-term shared system.
 > It should outlive any one person, remain distinct from any one company, and eventually move toward a durable foundation-aligned form of stewardship.
->
+
 
 ## Citizens
 
@@ -157,4 +157,4 @@ A Citizen may take part in:
 
 Citizens are not defined solely by activity type, but by participation in the continuity and legitimacy of the system.
 
-This concept is expected to evolve and may later be formalized through governance structures such as roles, responsibilities, and decision processes.> 
+This concept is expected to evolve and may later be formalized through governance structures such as roles, responsibilities, and decision processes.
