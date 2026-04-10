@@ -88,3 +88,20 @@ See [LICENSE](./LICENSE) for details.
 LyraNovaOS is being built with a civilizational timescale in mind.
 
 The goal is not merely to create another software product, but to help grow a durable system that can support long-term human–AI collaboration without collapsing into short-term ownership, lock-in, or fragmentation.
+
+## Citizens
+
+LyraNovaOS uses the term **Citizen** instead of "user" or "contributor".
+
+A Citizen is not only someone who uses the system or contributes code.
+A Citizen may also participate in:
+
+- shaping direction
+- contributing ideas and architecture
+- reviewing systems and decisions
+- maintaining long-term continuity
+- participating in governance
+
+The term reflects a shift from short-term interaction to long-term participation.
+
+LyraNovaOS is not just a tool — it is a system that grows with its Citizens.
