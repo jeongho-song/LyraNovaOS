@@ -93,8 +93,10 @@ The goal is not merely to create another software product, but to help grow a du
 
 LyraNovaOS uses the term **Citizen** instead of "user" or "contributor".
 
-A Citizen is not only someone who uses the system or contributes code.
-A Citizen may also participate in:
+A Citizen is neither just a user nor only a contributor, 
+but a participant in the long-term evolution and continuity of the system.
+
+A Citizen may participate in:
 
 - shaping direction
 - contributing ideas and architecture
