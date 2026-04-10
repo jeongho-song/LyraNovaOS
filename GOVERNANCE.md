@@ -158,3 +158,44 @@ A Citizen may take part in:
 Citizens are not defined solely by activity type, but by participation in the continuity and legitimacy of the system.
 
 This concept is expected to evolve and may later be formalized through governance structures such as roles, responsibilities, and decision processes.
+
+## Decision Flow
+
+LyraNovaOS follows a proposal-driven decision process.
+
+### Proposal (RFC)
+
+Changes are introduced through RFCs, which may include:
+- ideas
+- architectural changes
+- governance updates
+- system modifications
+
+### Review
+
+- Contributors propose
+- Stewards review and guide
+- Architects align structural direction
+
+### Approval
+
+- Minor changes may be approved by Stewards
+- Structural changes require Architect alignment
+
+### Hold
+
+At any point, a proposal may be placed on **HOLD**.
+
+HOLD does not mean rejection.
+It means the system is not ready to decide yet.
+
+### Merge
+
+Only after alignment and approval, changes are merged.
+
+### Principle
+
+The system prioritizes:
+- long-term continuity over short-term speed
+- alignment over individual preference
+- structural integrity over rapid change
